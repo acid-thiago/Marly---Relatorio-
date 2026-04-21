@@ -1,0 +1,6 @@
+{
+  "name": "Relatório de Tráfego Pago Acid Mkt",
+  "description": "Relatório dinâmico e explicativo de tráfego pago para Acid Mkt & Vds, conectado ao Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
